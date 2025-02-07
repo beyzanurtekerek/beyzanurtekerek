@@ -44,10 +44,3 @@
 </div>
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-![](https://github-readme-stats.vercel.app/api?username=beyzanurtekerek&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beyzanurtekerek&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurtekerek&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<h2 align="center">📌Random Dev Quote📌</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
