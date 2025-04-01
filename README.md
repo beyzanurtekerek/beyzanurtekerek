@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Beyza Nur 👋🏻</h1>
 
 <p align="center">
-  <b>iOS Developer | SwiftUI & UIKit</b>
+  <b>iOS Developer</b>
 </p>
 
 ---
