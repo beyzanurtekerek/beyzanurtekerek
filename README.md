@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beyzanurtekerek.beyzanurtekerek" />
+
 <h1 align="center">Hi there, I'm Beyza Nur 👋🏻</h1>
 
 <p align="center">
@@ -28,7 +30,7 @@
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/beyzanurtekerek/)
 - 🧠 [My GitHub Projects](https://github.com/beyzanurtekerek)
-- 🖋️ [Medium](https://beyzanurtekerek.medium.com/)
+- 🖋️ [Medium](https://medium.com/@beyzanurtekerek)
 - 💌 Always open to collaboration, internships, and learning opportunities!
 
 ---
