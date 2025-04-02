@@ -31,7 +31,7 @@
 ### 💬 Let's Connect!
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/beyzanurtekerek/)
-- 🧠 [My GitHub Projects](https://github.com/beyzanurtekerek)
+- 🧠 [My GitHub Projects](https://github.com/beyzanurtekerek?tab=repositories)
 - 🖋️ [Medium](https://medium.com/@beyzanurtekerek)
 - 💌 Always open to collaboration, internships, and learning opportunities!
 
