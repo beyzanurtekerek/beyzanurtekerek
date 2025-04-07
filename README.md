@@ -37,6 +37,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzanurtekerek&" alt="beyzanurtekerek" />
+</div>
+
 <p align="center">
   <i>“Simplicity is the soul of efficiency.”</i><br>
     - Austin Freeman
