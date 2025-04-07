@@ -1,14 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beyzanurtekerek.beyzanurtekerek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋🏻+I'm+Beyza+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FFB532&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Beyza+👋🏻" />
 </h1>
 
-<p align="center">
-  <b>iOS Developer</b>
-</p>
+# iOS Developer
 
----
 
 ### 👩🏻‍💻 About Me
 
@@ -18,7 +15,6 @@
 - 🌍 I believe in the power of clean code and collaboration, and I enjoy learning from open-source projects.
 - 🧠 I’m always eager to learn, explore new technologies, and work on projects that make a real impact.
 
----
 
 ### 🛠️ Languages & Tools
 
@@ -26,7 +22,7 @@
 - 🛠️ Git, GitHub, XCode, Figma
 - 🌐 MVVM Arthitecture, VIPER Architecture, Firebase, SwiftData, RESTful APIs etc.
 - 🔁 CI/CD, Agile & Scrum methodologies
----
+
 
 ### 💬 Let's Connect!
 
