@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=beyzanurtekerek.beyzanurtekerek" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FFB532&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Beyza+👋🏻" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FFB532&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I+am+Beyza+👋🏻" />
 </h1>
 
 # iOS Developer
