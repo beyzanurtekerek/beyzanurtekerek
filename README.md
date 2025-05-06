@@ -20,8 +20,8 @@
 
 - 💬 Swift, SwiftUI, UIKit
 - 🛠️ Git, GitHub, XCode, Figma
-- 🌐 MVVM Arthitecture, VIPER Architecture, Firebase, SwiftData, RESTful APIs etc.
-- 🔁 CI/CD, Agile & Scrum methodologies
+- 🌐 MVVM Arthitecture, VIPER Architecture, Firebase, CoreData, RESTful APIs etc.
+- 🔁 Basic knowledge about CI/CD, Agile & Scrum methodologies
 
 
 ### 💬 Let's Connect!
