@@ -19,7 +19,7 @@
 ### 🛠️ Languages & Tools
 
 - 💬 Swift, SwiftUI, UIKit
-- 🛠️ Git, GitHub, XCode, Figma
+- 🛠️ Fork, Git, GitHub, XCode, Figma
 - 🌐 MVVM Arthitecture, VIPER Architecture, Firebase, CoreData, RESTful APIs etc.
 - 🔁 Basic knowledge about CI/CD, Agile & Scrum methodologies
 
